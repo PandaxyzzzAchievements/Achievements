@@ -1,2 +1,6 @@
 # Achievements
 ⛏️
+...
+```py
+print("W")
+```
